@@ -1,0 +1,25 @@
+{
+  "name": "blogapi",
+  "version": "1.0.0",
+  "description": "\"BlogAPI challenge from Server-side Prg - Modern Classics\"",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avatarmh/blogAPI.git"
+  },
+  "author": "MHeller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avatarmh/blogAPI/issues"
+  },
+  "homepage": "https://github.com/avatarmh/blogAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "uuid": "^3.2.1"
+  }
+}
